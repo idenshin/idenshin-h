@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">弹幕功能演示</string>
+
+    <string name="main_show">显示</string>
+    <string name="main_hide">隐藏</string>
+    <string name="main_pause">暂停</string>
+    <string name="main_text">发送文本弹幕</string>
+    <string name="main_spannable">发送图文弹幕</string>
+    <string name="main_send">发送</string>
+    <string name="main_resume">Resume</string>
+    <string name="main_start">进入弹幕页面</string>
+</resources>
